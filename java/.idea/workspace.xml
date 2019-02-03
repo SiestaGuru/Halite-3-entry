@@ -1,0 +1,1620 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/Test.java" line="76" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="827e73d2-6d55-4121-9496-13b8f945f4d2" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Map.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Map.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3995">
+              <caret line="408" column="65" lean-forward="false" selection-start-line="408" selection-start-column="65" selection-end-line="408" selection-end-column="65" />
+              <folding>
+                <element signature="method#Map#0;class#Map#0" expanded="false" />
+                <element signature="method#GetShipArrays#0;class#Map#0" expanded="false" />
+                <element signature="e#10405#10513#0" expanded="false" />
+                <element signature="e#10837#10917#0" expanded="false" />
+                <element signature="method#CleanUp#0;class#Map#0" expanded="false" />
+                <element signature="method#RemoveShipFromTile#0;class#Map#0" expanded="false" />
+                <element signature="method#PutShipOnItsTile#0;class#Map#0" expanded="false" />
+                <element signature="method#PutMyShipWhereItBelongs#0;class#Map#0" expanded="false" />
+                <element signature="method#PutEnemyShipWhereItBelongs#0;class#Map#0" expanded="false" />
+                <element signature="method#GetShipAt#0;class#Map#0" expanded="false" />
+                <element signature="method#GetShipById#0;class#Map#0" expanded="false" />
+                <element signature="method#IsEnemyShipAt#0;class#Map#0" expanded="false" />
+                <element signature="method#IsShipAt#0;class#Map#0" expanded="false" />
+                <element signature="method#IsFriendlyShipAt#0;class#Map#0" expanded="false" />
+                <element signature="method#ContainsFriendlyShipOtherThan#0;class#Map#0" expanded="false" />
+                <element signature="method#GetHaliteAt#0;class#Map#0" expanded="false" />
+                <element signature="method#GetHaliteAt#1;class#Map#0" expanded="false" />
+                <element signature="method#GetHaliteAt#2;class#Map#0" expanded="false" />
+                <element signature="e#37783#37850#0" expanded="false" />
+                <element signature="method#ProposeHaliteChange#0;class#Map#0" expanded="false" />
+                <element signature="e#38612#38690#0" expanded="false" />
+                <element signature="method#ProposeHaliteChange#1;class#Map#0" expanded="false" />
+                <element signature="e#39385#39482#0" expanded="false" />
+                <element signature="e#39926#40004#0" expanded="false" />
+                <element signature="method#NewSimInit#0;class#Map#0" expanded="false" />
+                <element signature="method#QueueEnemySimulatedMove#0;class#Map#0" expanded="false" />
+                <element signature="e#46667#46715#0" expanded="false" />
+                <element signature="e#47432#47480#0" expanded="false" />
+                <element signature="method#SetNearbyTiles#0;class#Map#0" expanded="false" />
+                <element signature="method#GetUniquenessString#0;class#Map#0" expanded="false" />
+                <element signature="method#TestSetHalite#0;class#Map#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Goals.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Goals.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="514" column="0" lean-forward="true" selection-start-line="514" selection-start-column="0" selection-end-line="514" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GameOutput.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GameOutput.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="18" column="25" lean-forward="true" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FuturePathing.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FuturePathing.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="9690">
+              <caret line="570" column="30" lean-forward="false" selection-start-line="570" selection-start-column="30" selection-end-line="570" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GoalShipPair.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GoalShipPair.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Plan.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Plan.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="5093" column="28" lean-forward="false" selection-start-line="5093" selection-start-column="28" selection-end-line="5093" selection-end-column="28" />
+              <folding>
+                <element signature="e#3361#3377#0" expanded="false" />
+                <element signature="e#10377#10468#0" expanded="false" />
+                <element signature="e#11074#11160#0" expanded="false" />
+                <element signature="e#12087#12125#0" expanded="false" />
+                <element signature="e#13595#13597#0" expanded="false" />
+                <element signature="e#13739#13783#0" expanded="false" />
+                <element signature="method#PrepAfterDropoffs#0;class#Plan#0" expanded="false" />
+                <element signature="method#FindBestPlan#0;class#Plan#0" expanded="false" />
+                <element signature="e#22838#22902#0" expanded="false" />
+                <element signature="e#25060#25079#0" expanded="false" />
+                <element signature="method#Plan#0;class#Plan#0" expanded="false" />
+                <element signature="method#ClearCopy#0;class#Plan#0" expanded="false" />
+                <element signature="method#SetMyMove#0;class#Plan#0" expanded="false" />
+                <element signature="method#SetEnemyMove#0;class#Plan#0" expanded="false" />
+                <element signature="method#RemoveMyMovesBy#0;class#Plan#0" expanded="false" />
+                <element signature="method#StripMyMoves#0;class#Plan#0" expanded="false" />
+                <element signature="method#SetWipMap#0;class#Plan#0" expanded="false" />
+                <element signature="method#SetFinalMap#0;class#Plan#0" expanded="false" />
+                <element signature="method#SetSavepointMap#0;class#Plan#0" expanded="false" />
+                <element signature="method#CleanUpMaps#0;class#Plan#0" expanded="false" />
+                <element signature="method#ClearGunk#0;class#Plan#0" expanded="false" />
+                <element signature="method#findhighestPrioPossibilities#0;class#Plan#0" expanded="false" />
+                <element signature="method#findAllStepsForShip#0;class#Plan#0" expanded="false" />
+                <element signature="method#findSimulatedSteps#0;class#Plan#0" expanded="false" />
+                <element signature="method#findAllMovesForEnemyShip#0;class#Plan#0" expanded="false" />
+                <element signature="method#CheapPriorityEvalSorter#0;class#Plan#0" expanded="false" />
+                <element signature="method#AddAllForcedMoves#0;class#Plan#0" expanded="false" />
+                <element signature="method#GetNewPlanAfterMove#0;class#Plan#0" expanded="false" />
+                <element signature="method#GetNewPlanAfterSwap#0;class#Plan#0" expanded="false" />
+                <element signature="method#GetSimulatedPlanAfterMove#0;class#Plan#0" expanded="false" />
+                <element signature="method#GetSimulatedPlanAfterSwap#0;class#Plan#0" expanded="false" />
+                <element signature="e#48663#48736#0" expanded="false" />
+                <element signature="method#CloneAndSim#0;class#Plan#0" expanded="false" />
+                <element signature="e#50648#50691#0" expanded="false" />
+                <element signature="e#51236#51279#0" expanded="false" />
+                <element signature="method#compareTo#0;class#Plan#0" expanded="false" />
+                <element signature="method#DebugConfirm#0;class#Plan#0" expanded="false" />
+                <element signature="method#movesToString#0;class#Plan#0" expanded="false" />
+                <element signature="method#FindBestSoloJourneysMix#0;class#Plan#0" expanded="false" />
+                <element signature="e#56751#56823#0" expanded="false" />
+                <element signature="e#60460#60570#0" expanded="false" />
+                <element signature="e#71860#71969#0" expanded="false" />
+                <element signature="e#77090#77192#0" expanded="false" />
+                <element signature="e#81422#81472#0" expanded="false" />
+                <element signature="e#82143#82177#0" expanded="false" />
+                <element signature="method#GetZombie#0;class#Plan#0" expanded="false" />
+                <element signature="e#86014#86042#0" expanded="false" />
+                <element signature="e#86511#86537#0" expanded="false" />
+                <element signature="e#86848#86909#0" expanded="false" />
+                <element signature="e#87467#87500#0" expanded="false" />
+                <element signature="e#87943#88016#0" expanded="false" />
+                <element signature="e#88776#88849#0" expanded="false" />
+                <element signature="e#89722#89794#0" expanded="false" />
+                <element signature="e#90060#90118#0" expanded="false" />
+                <element signature="e#91419#91425#0" expanded="true" />
+                <element signature="method#MoveBasedGreedySearch#1;class#Plan#0" expanded="false" />
+                <element signature="e#93374#93380#0" expanded="true" />
+                <element signature="method#MonteCarloSearch#0;class#Plan#0" expanded="false" />
+                <element signature="e#96625#96651#0" expanded="false" />
+                <element signature="e#97685#97755#0" expanded="false" />
+                <element signature="e#101668#101670#0" expanded="false" />
+                <element signature="e#105714#105780#0" expanded="false" />
+                <element signature="e#108190#108213#0" expanded="false" />
+                <element signature="e#108717#108802#0" expanded="false" />
+                <element signature="method#MoveFixemUpper#0;class#Plan#0" expanded="false" />
+                <element signature="e#111352#111374#0" expanded="false" />
+                <element signature="e#111568#111620#0" expanded="false" />
+                <element signature="e#112516#112548#0" expanded="false" />
+                <element signature="e#112695#112718#0" expanded="false" />
+                <element signature="e#112864#112887#0" expanded="false" />
+                <element signature="method#MajorFixemUpper#0;class#Plan#0" expanded="false" />
+                <element signature="e#113782#113804#0" expanded="false" />
+                <element signature="e#114495#114547#0" expanded="false" />
+                <element signature="e#115313#115390#0" expanded="false" />
+                <element signature="e#116344#116367#0" expanded="false" />
+                <element signature="method#CollisionFixer#0;class#Plan#0" expanded="false" />
+                <element signature="e#121660#121699#0" expanded="false" />
+                <element signature="e#121914#121933#0" expanded="false" />
+                <element signature="e#122085#122115#0" expanded="false" />
+                <element signature="e#123200#123237#0" expanded="false" />
+                <element signature="method#CountCollisions#0;class#Plan#0" expanded="false" />
+                <element signature="method#GetPlanFromStyle#0;class#Plan#0" expanded="false" />
+                <element signature="e#125812#125850#0" expanded="false" />
+                <element signature="e#129935#129957#0" expanded="false" />
+                <element signature="e#131692#131723#0" expanded="false" />
+                <element signature="method#GetMinimalExpanded#0;class#Plan#0" expanded="false" />
+                <element signature="e#136596#136598#0" expanded="false" />
+                <element signature="method#GetGreedySpam#0;class#Plan#0" expanded="false" />
+                <element signature="e#139001#139103#0" expanded="false" />
+                <element signature="e#141752#141786#0" expanded="false" />
+                <element signature="method#GetHugeMonte#0;class#Plan#0" expanded="false" />
+                <element signature="method#GetNewStyle#0;class#Plan#0" expanded="false" />
+                <element signature="method#GetExtremelyMinimal#0;class#Plan#0" expanded="false" />
+                <element signature="method#GetSoloEscalation#0;class#Plan#0" expanded="false" />
+                <element signature="method#GetSuggestionLed#0;class#Plan#0" expanded="false" />
+                <element signature="method#GetFixemOnly#0;class#Plan#0" expanded="false" />
+                <element signature="method#GetOldFashioned#0;class#Plan#0" expanded="false" />
+                <element signature="e#145157#145262#0" expanded="false" />
+                <element signature="e#148326#148438#0" expanded="false" />
+                <element signature="e#149548#149577#0" expanded="false" />
+                <element signature="e#153686#153788#0" expanded="false" />
+                <element signature="e#156640#156674#0" expanded="false" />
+                <element signature="e#157406#157509#0" expanded="false" />
+                <element signature="e#157630#157657#0" expanded="false" />
+                <element signature="e#159684#159730#0" expanded="false" />
+                <element signature="method#AddLastTurnSuggestions#0;class#Plan#0" expanded="false" />
+                <element signature="method#AddtoSuggestionList#0;class#Plan#0" expanded="false" />
+                <element signature="method#ClearBansAndSuggestions#0;class#Plan#0" expanded="false" />
+                <element signature="method#preCalcEvaluateStuff#0;class#Plan#0" expanded="false" />
+                <element signature="e#164127#164145#0" expanded="false" />
+                <element signature="e#164415#164454#0" expanded="false" />
+                <element signature="method#PrepNewEvaluator#0;class#Plan#0" expanded="false" />
+                <element signature="method#FinalEvaluation#0;class#Plan#0" expanded="false" />
+                <element signature="e#174342#174402#0" expanded="false" />
+                <element signature="e#175079#175180#0" expanded="false" />
+                <element signature="e#176320#176457#0" expanded="false" />
+                <element signature="e#180221#180316#0" expanded="false" />
+                <element signature="e#180825#180972#0" expanded="false" />
+                <element signature="e#181729#181844#0" expanded="false" />
+                <element signature="e#182043#182084#0" expanded="false" />
+                <element signature="e#182247#182316#0" expanded="false" />
+                <element signature="e#185302#185343#0" expanded="false" />
+                <element signature="e#185769#185804#0" expanded="false" />
+                <element signature="method#EvaluateTile#0;class#Plan#0" expanded="false" />
+                <element signature="e#218228#218318#0" expanded="false" />
+                <element signature="method#EvaluatorGoalSeeking#0;class#Plan#0" expanded="false" />
+                <element signature="method#EvaluatorShipHalite#0;class#Plan#0" expanded="false" />
+                <element signature="method#EvaluatorAwayFromStart#0;class#Plan#0" expanded="false" />
+                <element signature="method#EvaluatorDropoffFinder#0;class#Plan#0" expanded="false" />
+                <element signature="method#EvaluatorEnemyKiller#0;class#Plan#0" expanded="false" />
+                <element signature="method#EvaluatorMoveScoreOnly#0;class#Plan#0" expanded="false" />
+                <element signature="method#EvaluatePicker#0;class#Plan#0" expanded="false" />
+                <element signature="method#MoveEvaluateExperimental#0;class#Plan#0" expanded="false" />
+                <element signature="e#225830#225900#0" expanded="false" />
+                <element signature="e#226248#226283#0" expanded="false" />
+                <element signature="method#ShouldQuitStricter#0;class#Plan#0" expanded="false" />
+                <element signature="method#ShouldQuit#0;class#Plan#0" expanded="false" />
+                <element signature="method#finalResultToString#0;class#Plan#0" expanded="false" />
+                <element signature="e#229441#229471#0" expanded="false" />
+                <element signature="method#OutputToPlanChannel#0;class#Plan#0" expanded="false" />
+                <marker date="1549105992625" expanded="false" signature="60581:61951" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Tile.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Tile.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="302" column="26" lean-forward="false" selection-start-line="302" selection-start-column="26" selection-end-line="302" selection-end-column="26" />
+              <folding>
+                <element signature="method#TestDirs#0;class#Tile#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Log.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Log.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="262">
+              <caret line="180" column="21" lean-forward="false" selection-start-line="180" selection-start-column="21" selection-end-line="180" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyBot.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MyBot.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="219">
+              <caret line="122" column="61" lean-forward="false" selection-start-line="122" selection-start-column="61" selection-end-line="122" selection-end-column="61" />
+              <folding>
+                <element signature="e#4175#4267#0" expanded="false" />
+                <element signature="e#35318#35392#0" expanded="false" />
+                <element signature="method#CheckKillFile#0;class#MyBot#0" expanded="false" />
+                <element signature="method#PreCalc#0;class#MyBot#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HandwavyWeights.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HandwavyWeights.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="229">
+              <caret line="432" column="24" lean-forward="false" selection-start-line="432" selection-start-column="24" selection-end-line="432" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#Range#0;class#HandwavyWeights#0" expanded="false" />
+                <element signature="method#Range#1;class#HandwavyWeights#0" expanded="false" />
+                <element signature="method#MultiplyByRange#0;class#HandwavyWeights#0" expanded="false" />
+                <element signature="method#RangeAlways#0;class#HandwavyWeights#0" expanded="false" />
+                <element signature="method#MultiplyByRange#1;class#HandwavyWeights#0" expanded="false" />
+                <element signature="method#MultiplyByRange#2;class#HandwavyWeights#0" expanded="false" />
+                <element signature="method#Around#0;class#HandwavyWeights#0" expanded="false" />
+                <element signature="method#Around#1;class#HandwavyWeights#0" expanded="false" />
+                <element signature="method#AroundExpo#0;class#HandwavyWeights#0" expanded="false" />
+                <element signature="method#Range#2;class#HandwavyWeights#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>nearish</find>
+      <find>MAp.</find>
+      <find>GetShortDistLureHaliteMap</find>
+      <find>finalevalu</find>
+      <find>solojourne</find>
+      <find>greedy</find>
+      <find>mix</find>
+      <find>movefi</find>
+      <find>greedyspam</find>
+      <find>hugemonte</find>
+      <find>InspireHaliteMultV4</find>
+      <find>Evaluate(</find>
+      <find>EvaluateTile</find>
+      <find>preCalcEvaluateStuff</find>
+      <find>= 0</find>
+      <find>Prep</find>
+      <find>blocker</find>
+      <find>moveevalua</find>
+      <find>maxhalite</find>
+      <find>updatesucc</find>
+      <find>updatefr</find>
+      <find>ProposeHaliteChange</find>
+      <find>moveeva</find>
+      <find>FindBestSoloJourney</find>
+      <find>GetMinimal</find>
+      <find>todo</find>
+      <find>longlure</find>
+      <find>shit</find>
+      <find>MoveEvaluate</find>
+      <find>version</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>0.3</replace>
+      <replace>Med</replace>
+      <replace>toY</replace>
+      <replace>FINAL</replace>
+      <replace>West</replace>
+      <replace>V3</replace>
+      <replace>Gathered</replace>
+      <replace>haliteMapInspire</replace>
+      <replace>gatherScore</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\Projects\Halite\v0.3</dir>
+      <dir>C:\Projects\Halite\vCurrent</dir>
+    </dirStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Plan.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/SimulationException.java" />
+        <option value="$PROJECT_DIR$/hlt/Command.java" />
+        <option value="$PROJECT_DIR$/hlt/Player.java" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/ImmutableTile.java" />
+        <option value="$PROJECT_DIR$/Handwavy.java" />
+        <option value="$PROJECT_DIR$/MemoryReleaser.java" />
+        <option value="$PROJECT_DIR$/SortableShip.java" />
+        <option value="$PROJECT_DIR$/hlt/Position.java" />
+        <option value="$PROJECT_DIR$/ShipTurnInEvent.java" />
+        <option value="$PROJECT_DIR$/Enemy.java" />
+        <option value="$PROJECT_DIR$/SortableMove.java" />
+        <option value="$PROJECT_DIR$/AnnoyPair.java" />
+        <option value="$PROJECT_DIR$/CheapShipPair.java" />
+        <option value="$PROJECT_DIR$/GoalShipPair.java" />
+        <option value="$PROJECT_DIR$/hlt/Direction.java" />
+        <option value="$PROJECT_DIR$/MoveSet.java" />
+        <option value="$PROJECT_DIR$/LightCoopMapPlan.java" />
+        <option value="$PROJECT_DIR$/MoveForCoop.java" />
+        <option value="$PROJECT_DIR$/WeirdAlgoPathSuggestion.java" />
+        <option value="$PROJECT_DIR$/SimulatenousMoveSet.java" />
+        <option value="$PROJECT_DIR$/hlt/Log.java" />
+        <option value="$PROJECT_DIR$/Move.java" />
+        <option value="$PROJECT_DIR$/hlt/Ship.java" />
+        <option value="$PROJECT_DIR$/hlt/Constants.java" />
+        <option value="$PROJECT_DIR$/hlt/Game.java" />
+        <option value="$PROJECT_DIR$/hlt/Input.java" />
+        <option value="$PROJECT_DIR$/Test.java" />
+        <option value="$PROJECT_DIR$/DropPoint.java" />
+        <option value="$PROJECT_DIR$/GameOutput.java" />
+        <option value="$PROJECT_DIR$/IndepthShipStats.java" />
+        <option value="$PROJECT_DIR$/MirrorMode.java" />
+        <option value="$PROJECT_DIR$/Stopwatch.java" />
+        <option value="$PROJECT_DIR$/Util.java" />
+        <option value="$PROJECT_DIR$/WeirdAlgo.java" />
+        <option value="$PROJECT_DIR$/AnalysisOutput.java" />
+        <option value="$PROJECT_DIR$/Annoyers.java" />
+        <option value="$PROJECT_DIR$/Competitor.java" />
+        <option value="$PROJECT_DIR$/EnemyPrediction.java" />
+        <option value="$PROJECT_DIR$/FuturePathing.java" />
+        <option value="$PROJECT_DIR$/Log.java" />
+        <option value="$PROJECT_DIR$/Map.java" />
+        <option value="$PROJECT_DIR$/SimulatenousJourneys.java" />
+        <option value="$PROJECT_DIR$/CheapShip.java" />
+        <option value="$PROJECT_DIR$/SideAlgorithms.java" />
+        <option value="$PROJECT_DIR$/Plan.java" />
+        <option value="$PROJECT_DIR$/HandwavyWeights.java" />
+        <option value="$PROJECT_DIR$/Goals.java" />
+        <option value="$PROJECT_DIR$/Tile.java" />
+        <option value="$PROJECT_DIR$/MyBot.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="1798" />
+    <option name="height" value="196" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="vCurrent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vCurrent" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../vExperimental" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Projects/Halite/vCurrent/HandwavyWeights.java" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Remote.Debug Player 0">
+    <configuration name="Debug Player 0" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="false" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="javadebug" />
+        <option name="TRANSPORT" value="1" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+    </configuration>
+    <configuration name="Unnamed" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="MyBot" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="v0.3" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="v0.2" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Application.Unnamed" />
+      <item index="1" class="java.lang.String" itemvalue="Remote.Debug Player 0" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="827e73d2-6d55-4121-9496-13b8f945f4d2" name="Default" comment="" />
+      <created>1539770203900</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1539770203900</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20108695" sideWeight="0.54957354" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.4978678" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17590618" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20108695" sideWeight="0.45042643" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5206522" sideWeight="0.79211086" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35434783" sideWeight="0.48933902" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2597826" sideWeight="0.5410448" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35434783" sideWeight="0.48933902" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34347826" sideWeight="0.6220682" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.4978678" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17270789" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2597826" sideWeight="0.45895523" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Map.java</url>
+          <line>1166</line>
+          <properties />
+          <option name="timeStamp" value="366" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Map.java</url>
+          <line>1178</line>
+          <properties />
+          <option name="timeStamp" value="367" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Map.java</url>
+          <line>231</line>
+          <properties />
+          <option name="timeStamp" value="433" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Map.java</url>
+          <line>234</line>
+          <properties />
+          <option name="timeStamp" value="434" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Map.java</url>
+          <line>224</line>
+          <properties />
+          <option name="timeStamp" value="616" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Plan.java</url>
+          <line>3067</line>
+          <properties />
+          <option name="timeStamp" value="768" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Plan.java</url>
+          <line>3071</line>
+          <properties />
+          <option name="timeStamp" value="769" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Plan.java</url>
+          <line>1810</line>
+          <properties />
+          <option name="timeStamp" value="779" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Plan.java</url>
+          <line>3651</line>
+          <properties />
+          <option name="timeStamp" value="792" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Plan.java</url>
+          <line>1725</line>
+          <properties />
+          <option name="timeStamp" value="799" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Plan.java</url>
+          <line>1826</line>
+          <properties />
+          <option name="timeStamp" value="807" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Plan.java</url>
+          <line>1740</line>
+          <properties />
+          <option name="timeStamp" value="822" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/FuturePathing.java</url>
+          <line>293</line>
+          <properties />
+          <option name="timeStamp" value="855" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Move.java</url>
+          <line>130</line>
+          <properties />
+          <option name="timeStamp" value="874" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Move.java</url>
+          <line>131</line>
+          <properties />
+          <option name="timeStamp" value="875" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Map.java</url>
+          <line>832</line>
+          <properties />
+          <option name="timeStamp" value="1112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Plan.java</url>
+          <line>846</line>
+          <properties />
+          <option name="timeStamp" value="1119" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.OutOfMemoryError" package="java.lang" />
+          <option name="timeStamp" value="563" />
+        </breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="1124" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Remote">
+        <watch expression="s" />
+        <watch expression="score" />
+        <watch expression="turninevent" />
+        <watch expression="suggestionList" />
+        <watch expression="oddsOfNothing" />
+        <watch expression="shipMap" />
+        <watch expression="m.enemyShips" />
+        <watch expression="enemyShips" />
+        <watch expression="shipMap" />
+        <watch expression="m2.to" />
+        <watch expression="m2" />
+        <watch expression="bestPlan.enemyMovesPerTurn" />
+        <watch expression="bestPlan" />
+        <watch expression="bestPlan.enemyMovesPerTurn" />
+        <watch expression="bestPlan.movesPerTurn" />
+        <watch expression="bestPlan.enemyMovesPerTurn[1]" />
+        <watch expression="MostReliableAlgoForSituation" />
+        <watch expression="succesfulPredictions" />
+        <watch expression="predictions" />
+        <watch expression="prediction" />
+        <watch expression="lastTurn0Predictions" />
+        <watch expression="movePredictions" />
+        <watch expression="succesfulPredictions[0][0]" />
+        <watch expression="succesfulPredictions[0][0]" language="JAVA" />
+        <watch expression="m" />
+        <watch expression="predictedMove" />
+        <watch expression="nScore = ratio;&#10;                            MostReliableAlgoFor" />
+        <watch expression="basePlan" />
+        <watch expression="plan" />
+        <watch expression="ex" />
+        <watch expression="possibility.latestMap" />
+        <watch expression="sum" />
+        <watch expression="sum2" />
+        <watch expression="hi" />
+        <watch expression="hi3" />
+        <watch expression="hi2" />
+        <watch expression="stillUsingThisMap" />
+        <watch expression="mapidcounter" />
+        <watch expression="shipMap" />
+        <watch expression="shipMap[28]" />
+        <watch expression="removeThese" />
+        <watch expression="staticEnemyShips" />
+        <watch expression="staticEnemyShips" language="JAVA" />
+        <watch expression="shipMap" />
+        <watch expression="movesDELETETHIS" />
+        <watch expression="possibilities" />
+        <watch expression="possibilities" />
+        <watch expression="items" />
+        <watch expression="items.get(5).lastMove" />
+        <watch expression="items.get(5).lastMove.from" />
+        <watch expression="items.get(5).lastMove.to" />
+        <watch expression="items.get(5).lastMove.ship" />
+        <watch expression="s.halite" />
+        <watch expression="orders" />
+        <watch expression="items" />
+        <watch expression="items" language="JAVA" />
+        <watch expression="items.get(11)" />
+        <watch expression="items.get(12)" />
+        <watch expression="movesPerTurn" />
+        <watch expression="best" />
+        <watch expression="Map.currentMap" />
+        <watch expression="items" language="JAVA" />
+        <watch expression="planLastTurn" />
+        <watch expression="blockingShip" />
+        <watch expression="items" />
+        <watch expression="m" />
+        <watch expression="parts" />
+        <watch expression="ruleOfThreeUntil" />
+        <watch expression="ruleOfTwoUntil" />
+        <watch expression="ruleOfXTiles" />
+        <watch expression="turnsFromDropoff" />
+        <watch expression="turnsToReachByShip" />
+        <watch expression="turnsToReachByShip" language="JAVA" />
+        <watch expression="distToMeaningfulHalite" />
+        <watch expression="lureMap" />
+        <watch expression="longDistLure" />
+        <watch expression="annoyGoals" />
+        <watch expression="goals" />
+        <watch expression="eLocOdds" />
+        <watch expression="medDistLure" />
+        <watch expression="medDistLure" language="JAVA" />
+        <watch expression="goals" />
+        <watch expression="currentPathLength" />
+        <watch expression="modifierChange" />
+        <watch expression="lureScore" />
+        <watch expression="Map.tiles" />
+        <watch expression="gatherScore" />
+        <watch expression="wastePreventionScore" />
+        <watch expression="turnInHaliteScore" />
+        <watch expression="miscScore" />
+        <watch expression="lureScore" />
+        <watch expression="aggressiveScore" />
+        <watch expression="shipHaliteTotalScore" />
+        <watch expression="moveScore" />
+        <watch expression="totalFinalShipHalite" />
+        <watch expression="likelyVisited1" />
+        <watch expression="likelyVisited2" />
+        <watch expression="likelyVisited3" />
+        <watch expression="s" />
+        <watch expression="prevTile" />
+        <watch expression="prevTile" />
+        <watch expression="startPlan" />
+        <watch expression="planLastTurn.WIPMAp" />
+        <watch expression="movesPerTurn" />
+        <watch expression="haliteFrom" />
+        <watch expression="newplan.MoveEvaluate(0,m,HandwavyWeights.T0Importance,HandwavyWeights.ItIsT0BeNotAfraid,Map.myIndexOfIds[s.id],false)" />
+        <watch expression="expectGatherOnNextTile" />
+        <watch expression="score" />
+        <watch expression="newplan.SetMyMove(0, m)" />
+        <watch expression="usableHaliteUnderNextSpot" />
+        <watch expression="expectGatherStandstill" />
+        <watch expression="lureScore" />
+        <watch expression="expectGatherOnNextTile" />
+        <watch expression="expectedShipHalite" />
+        <watch expression="s" />
+        <watch expression="t.myShipsStartInRange1Avg" />
+        <watch expression="Map.tileList" />
+        <watch expression="collectIfStandForX" />
+        <watch expression="gainIfStandFor1More" />
+        <watch expression="path" />
+        <watch expression="path" />
+        <watch expression="path" />
+        <watch expression="tiles" />
+        <watch expression="simulMovePlan" />
+        <watch expression="simulMovePlan" language="JAVA" />
+        <watch expression="ms.moves" />
+        <watch expression="tiles" />
+        <watch expression="s" />
+        <watch expression="enemyDropoffs" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/hlt/GameMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hlt/MapCell.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hlt/PlayerId.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hlt/Shipyard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" column="28" lean-forward="false" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hlt/Position.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="49" column="0" lean-forward="true" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/javafx-src.zip!/com/sun/javafx/collections/ObservableMapWrapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="237" column="26" lean-forward="false" selection-start-line="237" selection-start-column="26" selection-end-line="237" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hlt/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="10" column="32" lean-forward="false" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MicroGoals.java" />
+    <entry file="file://$PROJECT_DIR$/hlt/Direction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="22" lean-forward="false" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hlt/Command.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <element signature="e#225#226#0" expanded="false" />
+            <element signature="e#270#271#0" expanded="false" />
+            <element signature="e#467#468#0" expanded="false" />
+            <element signature="e#505#506#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="234" column="18" lean-forward="false" selection-start-line="234" selection-start-column="18" selection-end-line="234" selection-end-column="18" />
+          <folding>
+            <element signature="e#10065#10066#0" expanded="false" />
+            <element signature="e#10148#10149#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hlt/Ship.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hlt/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1305">
+          <caret line="85" column="0" lean-forward="false" selection-start-line="85" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hlt/Input.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="27" column="37" lean-forward="true" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
+          <folding>
+            <element signature="e#293#294#0" expanded="false" />
+            <element signature="e#337#338#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hlt/Dropoff.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hlt/EntityId.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="165" column="41" lean-forward="false" selection-start-line="165" selection-start-column="41" selection-end-line="165" selection-end-column="41" />
+          <folding>
+            <element signature="e#6283#6284#0" expanded="false" />
+            <element signature="e#6351#6352#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hlt/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="746">
+          <caret line="72" column="0" lean-forward="true" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LightCoopMapPlan.java" />
+    <entry file="file://$PROJECT_DIR$/MoveForCoop.java" />
+    <entry file="file://$PROJECT_DIR$/MoveSet.java" />
+    <entry file="file://$PROJECT_DIR$/SimulatenousMoveSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="15" lean-forward="false" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SortableShip.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="13" lean-forward="false" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="12" lean-forward="false" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#TestPlanEquality#0;class#Test#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Stopwatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="31" lean-forward="false" selection-start-line="0" selection-start-column="31" selection-end-line="0" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AnalysisOutput.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1421">
+          <caret line="144" column="12" lean-forward="false" selection-start-line="144" selection-start-column="12" selection-end-line="144" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Annoyers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="270" column="0" lean-forward="true" selection-start-line="270" selection-start-column="0" selection-end-line="270" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AnnoyPair.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="15" lean-forward="true" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CheapShipPair.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Competitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="571">
+          <caret line="232" column="8" lean-forward="false" selection-start-line="232" selection-start-column="8" selection-end-line="232" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DropPoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IndepthShipStats.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimulatenousJourneys.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="20" lean-forward="false" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WeirdAlgo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="22" column="52" lean-forward="false" selection-start-line="22" selection-start-column="52" selection-end-line="22" selection-end-column="52" />
+          <folding>
+            <element signature="method#GetRecommendedTilesForShipOld#0;class#WeirdAlgo#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WeirdAlgoPathSuggestion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="85" lean-forward="true" selection-start-line="0" selection-start-column="85" selection-end-line="0" selection-end-column="85" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Util.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="61" lean-forward="false" selection-start-line="0" selection-start-column="61" selection-end-line="0" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Move.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-46">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding>
+            <element signature="method#toString#0;class#Move#0" expanded="false" />
+            <element signature="method#equals#0;class#Move#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CheapShip.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="30" column="31" lean-forward="true" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
+          <folding>
+            <element signature="method#toString#0;class#CheapShip#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EnemyPrediction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3726">
+          <caret line="954" column="35" lean-forward="false" selection-start-line="954" selection-start-column="35" selection-end-line="954" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="initializer##0;class#EnemyPrediction#0" expanded="false" />
+            <element signature="method#DoPredictions#0;class#EnemyPrediction#0" expanded="false" />
+            <element signature="method#GetT0EnemyOdds#0;class#EnemyPrediction#0" expanded="false" />
+            <element signature="method#GetT0EnemyOddsOldFashioned#0;class#EnemyPrediction#0" expanded="false" />
+            <element signature="method#GetEnemyLocOdds#0;class#EnemyPrediction#0" expanded="false" />
+            <element signature="e#30352#30398#0" expanded="false" />
+            <element signature="method#GetSituation#0;class#EnemyPrediction#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SideAlgorithms.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="800" column="0" lean-forward="true" selection-start-line="800" selection-start-column="0" selection-end-line="800" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#GetTurnsToDropOff#0;class#SideAlgorithms#0" expanded="false" />
+            <element signature="method#SetForecastDropoffDist#0;class#SideAlgorithms#0" expanded="false" />
+            <element signature="method#GetTurnsToEnemyDropOffs#0;class#SideAlgorithms#0" expanded="false" />
+            <element signature="e#4369#4371#0" expanded="false" />
+            <element signature="method#GetTurnsToDangerousEnemiesDropOff#0;class#SideAlgorithms#0" expanded="false" />
+            <element signature="e#7733#7735#0" expanded="false" />
+            <element signature="method#GetTurnsFromShips#0;class#SideAlgorithms#0" expanded="false" />
+            <element signature="e#9264#9266#0" expanded="false" />
+            <element signature="method#GetTurnsFromEnemyShips#0;class#SideAlgorithms#0" expanded="false" />
+            <element signature="e#10814#10816#0" expanded="false" />
+            <element signature="method#GetShortDistLureHaliteMap#0;class#SideAlgorithms#0" expanded="false" />
+            <element signature="method#GetLongDistLureMap#0;class#SideAlgorithms#0" expanded="false" />
+            <element signature="e#17557#17561#0" expanded="false" />
+            <element signature="method#GetMediumDistLureMap#0;class#SideAlgorithms#0" expanded="false" />
+            <element signature="e#21538#21540#0" expanded="false" />
+            <element signature="method#SetMultipleMoveMaxSums#0;class#SideAlgorithms#0" expanded="false" />
+            <element signature="method#SetCentralTiles#0;class#SideAlgorithms#0" expanded="false" />
+            <element signature="method#GetDistanceToMeaningfulSpotsMap#0;class#SideAlgorithms#0" expanded="false" />
+            <element signature="e#27058#27093#0" expanded="false" />
+            <element signature="method#UpdateBrawlMap#0;class#SideAlgorithms#0" expanded="false" />
+            <element signature="method#Inspireodds#0;class#SideAlgorithms#0" expanded="false" />
+            <element signature="e#44142#44197#0" expanded="false" />
+            <element signature="method#InspireoddsNew#0;class#SideAlgorithms#0" expanded="false" />
+            <element signature="e#55618#55673#0" expanded="false" />
+            <element signature="e#74598#74806#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MirrorMode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="27" lean-forward="false" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoalShipPair.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3995">
+          <caret line="408" column="65" lean-forward="false" selection-start-line="408" selection-start-column="65" selection-end-line="408" selection-end-column="65" />
+          <folding>
+            <element signature="method#Map#0;class#Map#0" expanded="false" />
+            <element signature="method#GetShipArrays#0;class#Map#0" expanded="false" />
+            <element signature="e#10405#10513#0" expanded="false" />
+            <element signature="e#10837#10917#0" expanded="false" />
+            <element signature="method#CleanUp#0;class#Map#0" expanded="false" />
+            <element signature="method#RemoveShipFromTile#0;class#Map#0" expanded="false" />
+            <element signature="method#PutShipOnItsTile#0;class#Map#0" expanded="false" />
+            <element signature="method#PutMyShipWhereItBelongs#0;class#Map#0" expanded="false" />
+            <element signature="method#PutEnemyShipWhereItBelongs#0;class#Map#0" expanded="false" />
+            <element signature="method#GetShipAt#0;class#Map#0" expanded="false" />
+            <element signature="method#GetShipById#0;class#Map#0" expanded="false" />
+            <element signature="method#IsEnemyShipAt#0;class#Map#0" expanded="false" />
+            <element signature="method#IsShipAt#0;class#Map#0" expanded="false" />
+            <element signature="method#IsFriendlyShipAt#0;class#Map#0" expanded="false" />
+            <element signature="method#ContainsFriendlyShipOtherThan#0;class#Map#0" expanded="false" />
+            <element signature="method#GetHaliteAt#0;class#Map#0" expanded="false" />
+            <element signature="method#GetHaliteAt#1;class#Map#0" expanded="false" />
+            <element signature="method#GetHaliteAt#2;class#Map#0" expanded="false" />
+            <element signature="e#37783#37850#0" expanded="false" />
+            <element signature="method#ProposeHaliteChange#0;class#Map#0" expanded="false" />
+            <element signature="e#38612#38690#0" expanded="false" />
+            <element signature="method#ProposeHaliteChange#1;class#Map#0" expanded="false" />
+            <element signature="e#39385#39482#0" expanded="false" />
+            <element signature="e#39926#40004#0" expanded="false" />
+            <element signature="method#NewSimInit#0;class#Map#0" expanded="false" />
+            <element signature="method#QueueEnemySimulatedMove#0;class#Map#0" expanded="false" />
+            <element signature="e#46667#46715#0" expanded="false" />
+            <element signature="e#47432#47480#0" expanded="false" />
+            <element signature="method#SetNearbyTiles#0;class#Map#0" expanded="false" />
+            <element signature="method#GetUniquenessString#0;class#Map#0" expanded="false" />
+            <element signature="method#TestSetHalite#0;class#Map#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FuturePathing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9690">
+          <caret line="570" column="30" lean-forward="false" selection-start-line="570" selection-start-column="30" selection-end-line="570" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GameOutput.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="18" column="25" lean-forward="true" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Log.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="180" column="21" lean-forward="false" selection-start-line="180" selection-start-column="21" selection-end-line="180" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Goals.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="514" column="0" lean-forward="true" selection-start-line="514" selection-start-column="0" selection-end-line="514" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Plan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="5093" column="28" lean-forward="false" selection-start-line="5093" selection-start-column="28" selection-end-line="5093" selection-end-column="28" />
+          <folding>
+            <element signature="e#3361#3377#0" expanded="false" />
+            <element signature="e#10377#10468#0" expanded="false" />
+            <element signature="e#11074#11160#0" expanded="false" />
+            <element signature="e#12087#12125#0" expanded="false" />
+            <element signature="e#13595#13597#0" expanded="false" />
+            <element signature="e#13739#13783#0" expanded="false" />
+            <element signature="method#PrepAfterDropoffs#0;class#Plan#0" expanded="false" />
+            <element signature="method#FindBestPlan#0;class#Plan#0" expanded="false" />
+            <element signature="e#22838#22902#0" expanded="false" />
+            <element signature="e#25060#25079#0" expanded="false" />
+            <element signature="method#Plan#0;class#Plan#0" expanded="false" />
+            <element signature="method#ClearCopy#0;class#Plan#0" expanded="false" />
+            <element signature="method#SetMyMove#0;class#Plan#0" expanded="false" />
+            <element signature="method#SetEnemyMove#0;class#Plan#0" expanded="false" />
+            <element signature="method#RemoveMyMovesBy#0;class#Plan#0" expanded="false" />
+            <element signature="method#StripMyMoves#0;class#Plan#0" expanded="false" />
+            <element signature="method#SetWipMap#0;class#Plan#0" expanded="false" />
+            <element signature="method#SetFinalMap#0;class#Plan#0" expanded="false" />
+            <element signature="method#SetSavepointMap#0;class#Plan#0" expanded="false" />
+            <element signature="method#CleanUpMaps#0;class#Plan#0" expanded="false" />
+            <element signature="method#ClearGunk#0;class#Plan#0" expanded="false" />
+            <element signature="method#findhighestPrioPossibilities#0;class#Plan#0" expanded="false" />
+            <element signature="method#findAllStepsForShip#0;class#Plan#0" expanded="false" />
+            <element signature="method#findSimulatedSteps#0;class#Plan#0" expanded="false" />
+            <element signature="method#findAllMovesForEnemyShip#0;class#Plan#0" expanded="false" />
+            <element signature="method#CheapPriorityEvalSorter#0;class#Plan#0" expanded="false" />
+            <element signature="method#AddAllForcedMoves#0;class#Plan#0" expanded="false" />
+            <element signature="method#GetNewPlanAfterMove#0;class#Plan#0" expanded="false" />
+            <element signature="method#GetNewPlanAfterSwap#0;class#Plan#0" expanded="false" />
+            <element signature="method#GetSimulatedPlanAfterMove#0;class#Plan#0" expanded="false" />
+            <element signature="method#GetSimulatedPlanAfterSwap#0;class#Plan#0" expanded="false" />
+            <element signature="e#48663#48736#0" expanded="false" />
+            <element signature="method#CloneAndSim#0;class#Plan#0" expanded="false" />
+            <element signature="e#50648#50691#0" expanded="false" />
+            <element signature="e#51236#51279#0" expanded="false" />
+            <element signature="method#compareTo#0;class#Plan#0" expanded="false" />
+            <element signature="method#DebugConfirm#0;class#Plan#0" expanded="false" />
+            <element signature="method#movesToString#0;class#Plan#0" expanded="false" />
+            <element signature="method#FindBestSoloJourneysMix#0;class#Plan#0" expanded="false" />
+            <element signature="e#56751#56823#0" expanded="false" />
+            <element signature="e#60460#60570#0" expanded="false" />
+            <element signature="e#71860#71969#0" expanded="false" />
+            <element signature="e#77090#77192#0" expanded="false" />
+            <element signature="e#81422#81472#0" expanded="false" />
+            <element signature="e#82143#82177#0" expanded="false" />
+            <element signature="method#GetZombie#0;class#Plan#0" expanded="false" />
+            <element signature="e#86014#86042#0" expanded="false" />
+            <element signature="e#86511#86537#0" expanded="false" />
+            <element signature="e#86848#86909#0" expanded="false" />
+            <element signature="e#87467#87500#0" expanded="false" />
+            <element signature="e#87943#88016#0" expanded="false" />
+            <element signature="e#88776#88849#0" expanded="false" />
+            <element signature="e#89722#89794#0" expanded="false" />
+            <element signature="e#90060#90118#0" expanded="false" />
+            <element signature="e#91419#91425#0" expanded="true" />
+            <element signature="method#MoveBasedGreedySearch#1;class#Plan#0" expanded="false" />
+            <element signature="e#93374#93380#0" expanded="true" />
+            <element signature="method#MonteCarloSearch#0;class#Plan#0" expanded="false" />
+            <element signature="e#96625#96651#0" expanded="false" />
+            <element signature="e#97685#97755#0" expanded="false" />
+            <element signature="e#101668#101670#0" expanded="false" />
+            <element signature="e#105714#105780#0" expanded="false" />
+            <element signature="e#108190#108213#0" expanded="false" />
+            <element signature="e#108717#108802#0" expanded="false" />
+            <element signature="method#MoveFixemUpper#0;class#Plan#0" expanded="false" />
+            <element signature="e#111352#111374#0" expanded="false" />
+            <element signature="e#111568#111620#0" expanded="false" />
+            <element signature="e#112516#112548#0" expanded="false" />
+            <element signature="e#112695#112718#0" expanded="false" />
+            <element signature="e#112864#112887#0" expanded="false" />
+            <element signature="method#MajorFixemUpper#0;class#Plan#0" expanded="false" />
+            <element signature="e#113782#113804#0" expanded="false" />
+            <element signature="e#114495#114547#0" expanded="false" />
+            <element signature="e#115313#115390#0" expanded="false" />
+            <element signature="e#116344#116367#0" expanded="false" />
+            <element signature="method#CollisionFixer#0;class#Plan#0" expanded="false" />
+            <element signature="e#121660#121699#0" expanded="false" />
+            <element signature="e#121914#121933#0" expanded="false" />
+            <element signature="e#122085#122115#0" expanded="false" />
+            <element signature="e#123200#123237#0" expanded="false" />
+            <element signature="method#CountCollisions#0;class#Plan#0" expanded="false" />
+            <element signature="method#GetPlanFromStyle#0;class#Plan#0" expanded="false" />
+            <element signature="e#125812#125850#0" expanded="false" />
+            <element signature="e#129935#129957#0" expanded="false" />
+            <element signature="e#131692#131723#0" expanded="false" />
+            <element signature="method#GetMinimalExpanded#0;class#Plan#0" expanded="false" />
+            <element signature="e#136596#136598#0" expanded="false" />
+            <element signature="method#GetGreedySpam#0;class#Plan#0" expanded="false" />
+            <element signature="e#139001#139103#0" expanded="false" />
+            <element signature="e#141752#141786#0" expanded="false" />
+            <element signature="method#GetHugeMonte#0;class#Plan#0" expanded="false" />
+            <element signature="method#GetNewStyle#0;class#Plan#0" expanded="false" />
+            <element signature="method#GetExtremelyMinimal#0;class#Plan#0" expanded="false" />
+            <element signature="method#GetSoloEscalation#0;class#Plan#0" expanded="false" />
+            <element signature="method#GetSuggestionLed#0;class#Plan#0" expanded="false" />
+            <element signature="method#GetFixemOnly#0;class#Plan#0" expanded="false" />
+            <element signature="method#GetOldFashioned#0;class#Plan#0" expanded="false" />
+            <element signature="e#145157#145262#0" expanded="false" />
+            <element signature="e#148326#148438#0" expanded="false" />
+            <element signature="e#149548#149577#0" expanded="false" />
+            <element signature="e#153686#153788#0" expanded="false" />
+            <element signature="e#156640#156674#0" expanded="false" />
+            <element signature="e#157406#157509#0" expanded="false" />
+            <element signature="e#157630#157657#0" expanded="false" />
+            <element signature="e#159684#159730#0" expanded="false" />
+            <element signature="method#AddLastTurnSuggestions#0;class#Plan#0" expanded="false" />
+            <element signature="method#AddtoSuggestionList#0;class#Plan#0" expanded="false" />
+            <element signature="method#ClearBansAndSuggestions#0;class#Plan#0" expanded="false" />
+            <element signature="method#preCalcEvaluateStuff#0;class#Plan#0" expanded="false" />
+            <element signature="e#164127#164145#0" expanded="false" />
+            <element signature="e#164415#164454#0" expanded="false" />
+            <element signature="method#PrepNewEvaluator#0;class#Plan#0" expanded="false" />
+            <element signature="method#FinalEvaluation#0;class#Plan#0" expanded="false" />
+            <element signature="e#174342#174402#0" expanded="false" />
+            <element signature="e#175079#175180#0" expanded="false" />
+            <element signature="e#176320#176457#0" expanded="false" />
+            <element signature="e#180221#180316#0" expanded="false" />
+            <element signature="e#180825#180972#0" expanded="false" />
+            <element signature="e#181729#181844#0" expanded="false" />
+            <element signature="e#182043#182084#0" expanded="false" />
+            <element signature="e#182247#182316#0" expanded="false" />
+            <element signature="e#185302#185343#0" expanded="false" />
+            <element signature="e#185769#185804#0" expanded="false" />
+            <element signature="method#EvaluateTile#0;class#Plan#0" expanded="false" />
+            <element signature="e#218228#218318#0" expanded="false" />
+            <element signature="method#EvaluatorGoalSeeking#0;class#Plan#0" expanded="false" />
+            <element signature="method#EvaluatorShipHalite#0;class#Plan#0" expanded="false" />
+            <element signature="method#EvaluatorAwayFromStart#0;class#Plan#0" expanded="false" />
+            <element signature="method#EvaluatorDropoffFinder#0;class#Plan#0" expanded="false" />
+            <element signature="method#EvaluatorEnemyKiller#0;class#Plan#0" expanded="false" />
+            <element signature="method#EvaluatorMoveScoreOnly#0;class#Plan#0" expanded="false" />
+            <element signature="method#EvaluatePicker#0;class#Plan#0" expanded="false" />
+            <element signature="method#MoveEvaluateExperimental#0;class#Plan#0" expanded="false" />
+            <element signature="e#225830#225900#0" expanded="false" />
+            <element signature="e#226248#226283#0" expanded="false" />
+            <element signature="method#ShouldQuitStricter#0;class#Plan#0" expanded="false" />
+            <element signature="method#ShouldQuit#0;class#Plan#0" expanded="false" />
+            <element signature="method#finalResultToString#0;class#Plan#0" expanded="false" />
+            <element signature="e#229441#229471#0" expanded="false" />
+            <element signature="method#OutputToPlanChannel#0;class#Plan#0" expanded="false" />
+            <marker date="1549105992625" expanded="false" signature="60581:61951" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="302" column="26" lean-forward="false" selection-start-line="302" selection-start-column="26" selection-end-line="302" selection-end-column="26" />
+          <folding>
+            <element signature="method#TestDirs#0;class#Tile#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HandwavyWeights.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="432" column="24" lean-forward="false" selection-start-line="432" selection-start-column="24" selection-end-line="432" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#Range#0;class#HandwavyWeights#0" expanded="false" />
+            <element signature="method#Range#1;class#HandwavyWeights#0" expanded="false" />
+            <element signature="method#MultiplyByRange#0;class#HandwavyWeights#0" expanded="false" />
+            <element signature="method#RangeAlways#0;class#HandwavyWeights#0" expanded="false" />
+            <element signature="method#MultiplyByRange#1;class#HandwavyWeights#0" expanded="false" />
+            <element signature="method#MultiplyByRange#2;class#HandwavyWeights#0" expanded="false" />
+            <element signature="method#Around#0;class#HandwavyWeights#0" expanded="false" />
+            <element signature="method#Around#1;class#HandwavyWeights#0" expanded="false" />
+            <element signature="method#AroundExpo#0;class#HandwavyWeights#0" expanded="false" />
+            <element signature="method#Range#2;class#HandwavyWeights#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyBot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="122" column="61" lean-forward="false" selection-start-line="122" selection-start-column="61" selection-end-line="122" selection-end-column="61" />
+          <folding>
+            <element signature="e#4175#4267#0" expanded="false" />
+            <element signature="e#35318#35392#0" expanded="false" />
+            <element signature="method#CheckKillFile#0;class#MyBot#0" expanded="false" />
+            <element signature="method#PreCalc#0;class#MyBot#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
